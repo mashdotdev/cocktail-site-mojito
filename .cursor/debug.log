@@ -1,0 +1,8 @@
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766499637866,"hypothesisId":"H1","location":"postcss.config.mjs:26","message":"globals.css import positions","data":{"importLines":[1,9],"firstNonImportIndex":3}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766499637928,"hypothesisId":"H2","location":"postcss.config.mjs:35","message":"imports before other at-rules","data":{"importsBeforeOthers":false}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766499638534,"hypothesisId":"H1","location":"postcss.config.mjs:26","message":"globals.css import positions","data":{"importLines":[1,9],"firstNonImportIndex":3}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766499638602,"hypothesisId":"H2","location":"postcss.config.mjs:35","message":"imports before other at-rules","data":{"importsBeforeOthers":false}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766499720589,"hypothesisId":"H1","location":"postcss.config.mjs:26","message":"globals.css import positions","data":{"importLines":[1],"firstNonImportIndex":3}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766499720645,"hypothesisId":"H2","location":"postcss.config.mjs:35","message":"imports before other at-rules","data":{"importsBeforeOthers":true}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766499741626,"hypothesisId":"H1","location":"postcss.config.mjs:26","message":"globals.css import positions","data":{"importLines":[1],"firstNonImportIndex":3}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766499741675,"hypothesisId":"H2","location":"postcss.config.mjs:35","message":"imports before other at-rules","data":{"importsBeforeOthers":true}}
