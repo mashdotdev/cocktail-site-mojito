@@ -1,3 +1,4 @@
+import Cocktails from "@/components/cocktails";
 import Hero from "@/components/hero";
 import Navbar from "@/components/navbar";
 
@@ -6,6 +7,7 @@ const Home = () => {
     <main>
       <Navbar />
       <Hero />
+      <Cocktails />
     </main>
   );
 };

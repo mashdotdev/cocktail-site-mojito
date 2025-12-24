@@ -1,2 +1,2 @@
-{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766514514537,"hypothesisId":"H1","location":"postcss.config.mjs:26","message":"globals.css import positions","data":{"importLines":[1,3],"firstNonImportIndex":5}}
-{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766514514585,"hypothesisId":"H2","location":"postcss.config.mjs:35","message":"imports before other at-rules","data":{"importsBeforeOthers":true}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766556191480,"hypothesisId":"H1","location":"postcss.config.mjs:26","message":"globals.css import positions","data":{"importLines":[1,3],"firstNonImportIndex":5}}
+{"sessionId":"debug-session","runId":"pre-fix","timestamp":1766556191529,"hypothesisId":"H2","location":"postcss.config.mjs:35","message":"imports before other at-rules","data":{"importsBeforeOthers":true}}
